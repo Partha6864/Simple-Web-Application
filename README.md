@@ -26,4 +26,4 @@
 
 ### Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/contact-us-form.git
+   git clone https://github.com/Partha6864/Simple-Web-Application.git
